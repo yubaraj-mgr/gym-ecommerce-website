@@ -1,0 +1,28 @@
+.logo {
+  position: relative;
+  top: -80px;
+}
+
+.first-page {
+  background-image: url(./images/Wall.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 100vh;
+}
+
+.intro {
+  position: relative;
+  top: 180px;
+}
+
+.navbar-brand {
+  border: 3px solid rgb(95, 19, 91);
+  border-radius: 15px;
+  font-weight: 700;
+  font-size: 1.5rem;
+}
+
+.a p {
+  font-weight: 600;
+}
